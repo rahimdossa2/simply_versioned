@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
