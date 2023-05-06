@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
