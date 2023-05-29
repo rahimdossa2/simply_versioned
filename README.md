@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add dota8.yaml and O tests (#7394)
