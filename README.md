@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
