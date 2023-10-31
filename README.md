@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Replacing Images for torchscript.md (#8596)
