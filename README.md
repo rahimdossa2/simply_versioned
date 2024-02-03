@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fixed RTDETR GFLOPs bug (#7309)
