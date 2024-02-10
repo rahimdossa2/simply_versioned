@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
