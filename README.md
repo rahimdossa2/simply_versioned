@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
