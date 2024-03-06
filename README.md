@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix RTDETR generate anchor grid out of boundary (#7247)
