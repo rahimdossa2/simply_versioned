@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add docstrings to new HUB functions (#7576)
