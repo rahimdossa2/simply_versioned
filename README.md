@@ -1,1 +1,1 @@
-fix resume training
+Fix TFLite INT8 for OBB (#7989)
