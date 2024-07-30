@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Avoid creating -hub dir without processing images (#8334)
