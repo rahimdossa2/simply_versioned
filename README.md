@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Improve Docs arguments tables (#8415)
