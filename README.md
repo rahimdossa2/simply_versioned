@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
